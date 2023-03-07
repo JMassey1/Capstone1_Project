@@ -1,0 +1,2 @@
+C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Definitions.UpwardsGame.h
+C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Source\UpwardsGame\UpwardsGame.h
