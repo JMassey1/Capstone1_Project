@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Capstone1_Game",
+			"Path": "C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Capstone1_GameEditor",
+			"Path": "C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
