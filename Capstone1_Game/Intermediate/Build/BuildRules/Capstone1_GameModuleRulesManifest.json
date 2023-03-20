@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_Game\\Capstone1_Game.Build.cs",
-		"C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_Game.Target.cs",
-		"C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_GameEditor.Target.cs"
+		"D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_Game\\Capstone1_Game.Build.cs",
+		"D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_Game.Target.cs",
+		"D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\Capstone1_Game\\Source\\Capstone1_GameEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

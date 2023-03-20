@@ -1,2 +1,2 @@
-C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Definitions.UpwardsGame.h
-C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Source\UpwardsGame\UpwardsGame.h
+D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Definitions.UpwardsGame.h
+D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Source\UpwardsGame\UpwardsGame.h

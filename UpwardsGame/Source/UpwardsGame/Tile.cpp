@@ -36,7 +36,7 @@ void ATile::PickUp()
 
 void ATile::PlaceOnGridSpace(AGridSpace* GridSpace)
 {
-	CurrentGridSpace = GridSpace;
+	/*CurrentGridSpace = GridSpace;
 
 	FVector TargetLocation = GridSpace->GetActorLocation();
 	TargetLocation.Z += TileSize / 2.f;
@@ -47,5 +47,5 @@ void ATile::PlaceOnGridSpace(AGridSpace* GridSpace)
 	FRotator LaunchRotation = UKismetMathLibrary::FindLookAtRotation(LaunchLocation, TargetLocation);
 
 	// Need to finish
-	
+*/	
 }
