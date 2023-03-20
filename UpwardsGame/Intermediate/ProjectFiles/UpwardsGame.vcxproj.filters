@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UpwardsGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F0CFF684-8696-4560-BE8D-5B49CAFB31AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UpwardsGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UpwardsGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{37DE1E78-6D4E-4C1E-85C9-27D0C1110139}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UpwardsGame">
+      <UniqueIdentifier>{10CE85C9-282C-41F1-BD2F-5C9B7CD4C71E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UpwardsGame\GridSpace.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\GridSpace.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\ScrabbleGameMode.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\ScrabbleGameMode.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\Tile.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\Tile.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UpwardsGame\UpwardsGame.Build.cs">
+      <Filter>Source\UpwardsGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGame.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGame.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGameBlock.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGameBlock.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGameBlockGrid.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGameBlockGrid.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGameBoard.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGameBoard.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGameGameMode.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGameGameMode.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGamePawn.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGamePawn.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UpwardsGame\UpwardsGamePlayerController.cpp">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UpwardsGame\UpwardsGamePlayerController.h">
+      <Filter>Source\UpwardsGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

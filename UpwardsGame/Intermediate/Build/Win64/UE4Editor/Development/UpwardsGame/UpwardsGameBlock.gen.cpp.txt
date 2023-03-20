@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Definitions.UpwardsGame.h
+C:\UnReal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UnReal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Source\UpwardsGame/UpwardsGameBlock.h
+C:\Users\Jordan\Documents\Projects\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Inc\UpwardsGame\UpwardsGameBlock.generated.h
