@@ -3432,3 +3432,563 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.05-17.49.31:141][664]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.05-17.49.31:141][664]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PuzzleCPP/Maps/PuzzleExampleMap_BuiltData.PuzzleExampleMap_BuiltData
 [2023.04.05-17.49.31:141][664]LogContentValidation: Display: Validating World /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap
+[2023.04.05-17.54.54:413][ 29]LogEditorViewport: Clicking Background
+[2023.04.05-17.58.08:910][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2023.04.05-17.58.22:911][685]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-17.58.22:911][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-17.59.36:874][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.04.05-17.59.36:897][465]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMap_Auto3A89493C44AE55717DA02198D97C0011F.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Game/PuzzleCPP/Maps/PuzzleExampleMap_Auto3.umap'
+[2023.04.05-17.59.36:898][465]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PuzzleCPP/Maps/PuzzleExampleMap' took 0.050
+[2023.04.05-17.59.36:898][465]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.04.05-17.59.36:899][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([2] browsable assets)...
+[2023.04.05-17.59.36:899][465]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2023.04.05-17.59.36:941][465]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/StandardMacros_Auto33CEF2F154F48F4CB936BB19800D576B4.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto3.uasset'
+[2023.04.05-17.59.36:941][465]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing] ([2] browsable assets)...
+[2023.04.05-17.59.36:948][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing]
+[2023.04.05-17.59.36:948][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing]
+[2023.04.05-17.59.36:960][465]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/BP_Tile__Throwing_Auto395F1C1264CFD616A20EDF3A37346C3B9.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing_Auto3.uasset'
+[2023.04.05-17.59.36:960][465]LogFileHelpers: Auto-saving content packages took 0.062
+[2023.04.05-18.04.32:903][121]LogSlate: Took 0.004493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.05-18.05.37:419][750]LogEditorTransaction: Undo Move Node
+[2023.04.05-18.05.39:281][936]LogEditorTransaction: Undo Promote To Variable
+[2023.04.05-18.07.44:221][ 60]LogSlate: Window 'Delete Variable' being destroyed
+[2023.04.05-18.09.37:180][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.04.05-18.09.37:204][834]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMap_Auto4F8D794604DCFEF38AE31539523E889C9.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Game/PuzzleCPP/Maps/PuzzleExampleMap_Auto4.umap'
+[2023.04.05-18.09.37:204][834]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PuzzleCPP/Maps/PuzzleExampleMap' took 0.051
+[2023.04.05-18.09.37:205][834]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.04.05-18.09.37:205][834]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing] ([4] browsable assets)...
+[2023.04.05-18.09.37:215][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing]
+[2023.04.05-18.09.37:225][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing]
+[2023.04.05-18.09.37:225][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing]
+[2023.04.05-18.09.37:238][834]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/BP_Tile__Throwing_Auto40EE1B34C4A03C53F9BABDCAAE03890EA.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing_Auto4.uasset'
+[2023.04.05-18.09.37:238][834]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.04.05-18.11.39:677][407]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.11.39:715][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.04.05-18.11.40:396][479]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/BP_Tile__ThrowingBE6799FB4116FF629F9C3FBB99ECCB1B.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.uasset'
+[2023.04.05-18.11.40:405][479]AssetCheck: New page: Asset Save: BP_Tile__Throwing
+[2023.04.05-18.11.40:405][479]LogContentValidation: Display: Validating Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing
+[2023.04.05-18.11.44:105][918]LogEditorViewport: Clicking Background
+[2023.04.05-18.11.46:182][167]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.11.46:186][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-18.11.46:186][167]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:11:46 AM)
+[2023.04.05-18.11.46:186][167]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.11.46:195][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008305s)
+[2023.04.05-18.11.46:195][167]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.11.46:196][167]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2023.04.05-18.11.46:196][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009317s)
+[2023.04.05-18.11.46:222][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.04.05-18.11.46:223][167]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.11.46:223][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.11.46:223][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.11.46:224][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.11.46:224][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.11.46:224][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.11.46:224][167]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.11.46:227][167]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.11.46:227][167]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.11.46:230][167]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.11.46:230][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.11.46:230][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.11.46:230][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.11.46:231][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.11.46:231][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.11.46:231][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.11.46:231][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.11.46:232][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.11.46:232][167]LogInit: FAudioDevice initialized.
+[2023.04.05-18.11.46:232][167]LogAudio: Display: Audio Device (ID: 29) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.11.46:237][167]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.11.46:239][167]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.11.46
+[2023.04.05-18.11.46:239][167]LogWorld: Bringing up level for play took: 0.001290
+[2023.04.05-18.11.46:239][167]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2023.04.05-18.11.46:240][167]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.11.46:240][167]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.11.46:240][167]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.11.46:279][167]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.11.46:279][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_V tile(s)
+[2023.04.05-18.11.46:279][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_F tile(s)
+[2023.04.05-18.11.46:280][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_G tile(s)
+[2023.04.05-18.11.46:280][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile__WILD tile(s)
+[2023.04.05-18.11.46:280][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Z tile(s)
+[2023.04.05-18.11.46:280][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_T tile(s)
+[2023.04.05-18.11.46:280][167]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_J tile(s)
+[2023.04.05-18.11.46:280][167]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.11.46:280][167]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.11.46:280][167]PIE: Server logged in
+[2023.04.05-18.11.46:280][167]PIE: Play in editor total start time 0.095 seconds.
+[2023.04.05-18.12.37:793][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.12.37:793][ 85]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.12.37:794][ 85]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.12.37:795][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.12.37:809][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.12.37:813][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.12.37:834][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-18.12.37:834][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.12.37:835][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.12.37:836][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.12.37:840][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.05-18.12.37:857][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.04.05-18.12.40:399][390]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.12.40:403][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-18.12.40:403][390]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:12:40 AM)
+[2023.04.05-18.12.40:403][390]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.12.40:411][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007728s)
+[2023.04.05-18.12.40:411][390]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.12.40:412][390]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.04.05-18.12.40:412][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008530s)
+[2023.04.05-18.12.40:436][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.05-18.12.40:437][390]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.12.40:437][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.12.40:437][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.12.40:437][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.12.40:437][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.12.40:437][390]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.12.40:440][390]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.12.40:440][390]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.12.40:443][390]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.12.40:443][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.12.40:443][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.12.40:443][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.12.40:444][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.12.40:444][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.12.40:444][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.12.40:444][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.12.40:444][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.12.40:444][390]LogInit: FAudioDevice initialized.
+[2023.04.05-18.12.40:444][390]LogAudio: Display: Audio Device (ID: 30) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.12.40:449][390]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.12.40:450][390]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.12.40
+[2023.04.05-18.12.40:451][390]LogWorld: Bringing up level for play took: 0.001284
+[2023.04.05-18.12.40:451][390]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2023.04.05-18.12.40:452][390]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.12.40:452][390]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.12.40:452][390]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_I tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_M tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_E tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_C tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile__WILD tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Q tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Z tile(s)
+[2023.04.05-18.12.40:491][390]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.12.40:491][390]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.12.40:491][390]PIE: Server logged in
+[2023.04.05-18.12.40:492][390]PIE: Play in editor total start time 0.089 seconds.
+[2023.04.05-18.12.41:875][492]LogBlueprintUserMessages: [BP_GridSpace_C_130] MUST PLACE TILE ON CENTER FIRST
+[2023.04.05-18.13.56:533][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.13.56:533][489]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.13.56:534][489]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.13.56:535][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.13.56:542][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.13.56:546][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.13.56:566][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.13.56:566][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.13.56:567][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.13.56:573][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.04.05-18.13.56:605][492]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.04.05-18.20.39:930][119]LogEditorViewport: Clicking on Actor (LMB): BP_Tile_X_C (BP_Tile_X)
+[2023.04.05-18.20.53:690][759]LogEditorViewport: Clicking on Actor (LMB): BP_Tile_P_C (BP_Tile_P)
+[2023.04.05-18.20.54:151][813]LogEditorViewport: Clicking Background
+[2023.04.05-18.20.55:376][959]LogEditorViewport: Clicking on Actor (LMB): BP_Tile__Throwing_C (BP_Tile__Throwing)
+[2023.04.05-18.21.20:586][830]LogEditorViewport: Clicking on Actor (LMB): BP_Tile_P_C (BP_Tile_P)
+[2023.04.05-18.21.35:325][533]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.21.35:328][533]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.05-18.21.35:329][533]LogPlayLevel: [PlayLevel] Compiling BP_Tile__Throwing before play...
+[2023.04.05-18.21.35:380][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.04.05-18.21.35:384][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2023.04.05-18.21.35:384][533]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:21:35 AM)
+[2023.04.05-18.21.35:384][533]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.21.35:392][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008228s)
+[2023.04.05-18.21.35:393][533]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.21.35:393][533]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2023.04.05-18.21.35:393][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009263s)
+[2023.04.05-18.21.35:417][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.05-18.21.35:417][533]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.21.35:417][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.21.35:417][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.21.35:417][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.21.35:417][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.21.35:417][533]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.21.35:420][533]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.21.35:420][533]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.21.35:424][533]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.21.35:424][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.21.35:424][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.21.35:424][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.21.35:424][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.21.35:424][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.21.35:424][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.21.35:425][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.21.35:425][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.21.35:425][533]LogInit: FAudioDevice initialized.
+[2023.04.05-18.21.35:425][533]LogAudio: Display: Audio Device (ID: 31) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.21.35:436][533]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.21.35:438][533]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.21.35
+[2023.04.05-18.21.35:438][533]LogWorld: Bringing up level for play took: 0.001297
+[2023.04.05-18.21.35:438][533]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2023.04.05-18.21.35:439][533]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.21.35:439][533]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.21.35:439][533]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_X tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Z tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_O tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_C tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_A tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Y tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_P tile(s)
+[2023.04.05-18.21.35:478][533]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.21.35:479][533]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.21.35:479][533]PIE: Server logged in
+[2023.04.05-18.21.35:479][533]PIE: Play in editor total start time 0.151 seconds.
+[2023.04.05-18.21.35:913][558]LogBlueprintUserMessages: [BP_GridSpace_C_157] MUST PLACE TILE ON CENTER FIRST
+[2023.04.05-18.21.36:400][596]LogBlueprintUserMessages: [BP_GridSpace_C_156] MUST PLACE TILE ON CENTER FIRST
+[2023.04.05-18.21.37:749][693]LogEditorViewport: Clicking on Actor (LMB): BP_GridSpace_C (BP_GridSpace142)
+[2023.04.05-18.21.39:888][839]LogEditorViewport: Clicking on Actor (LMB): BP_GridSpace_C (BP_GridSpace172)
+[2023.04.05-18.21.44:249][118]LogEditorViewport: Clicking on Actor (LMB): BP_Tile_J_C (BP_Tile_J)
+[2023.04.05-18.21.48:312][469]LogEditorViewport: Clicking on Actor (LMB): BP_GridSpace_C (BP_GridSpace171)
+[2023.04.05-18.21.49:216][528]LogEditorViewport: Clicking on Actor (LMB): BP_GridSpace_C (BP_GridSpace169)
+[2023.04.05-18.21.54:353][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.21.54:354][876]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.21.54:354][876]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.21.54:356][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.21.54:362][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.21.54:366][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.21.54:386][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.21.54:386][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.21.54:387][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.21.54:392][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.05-18.21.54:410][877]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.04.05-18.22.54:011][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.05-18.22.54:033][179]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMap_Auto58C675471406A96AA51239DBD9EF0EB2E.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Game/PuzzleCPP/Maps/PuzzleExampleMap_Auto5.umap'
+[2023.04.05-18.22.54:034][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PuzzleCPP/Maps/PuzzleExampleMap' took 0.044
+[2023.04.05-18.22.54:034][179]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.04.05-18.22.54:034][179]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing] ([4] browsable assets)...
+[2023.04.05-18.22.54:040][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing]
+[2023.04.05-18.22.54:045][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing]
+[2023.04.05-18.22.54:045][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing]
+[2023.04.05-18.22.54:059][179]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/BP_Tile__Throwing_Auto582FA20AF4F1816DDB14288AB1BAFB5F8.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/Autosaves/Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing_Auto5.uasset'
+[2023.04.05-18.22.54:059][179]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.04.05-18.24.15:442][506]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Vector_IsNearlyZero' [Element not found.]
+[2023.04.05-18.25.28:800][219]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.25.28:837][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.04.05-18.25.30:092][361]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/BP_Tile__ThrowingA31D8BAA41F46554071A008F21E52A37.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.uasset'
+[2023.04.05-18.25.30:103][361]AssetCheck: New page: Asset Save: BP_Tile__Throwing
+[2023.04.05-18.25.30:103][361]LogContentValidation: Display: Validating Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing
+[2023.04.05-18.28.40:502][755]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.28.40:541][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.05-18.28.51:088][899]LogEditorViewport: Clicking on Actor (LMB): BP_Tile__Throwing_C (BP_Tile__Throwing)
+[2023.04.05-18.29.41:027][755]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.29.41:069][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.04.05-18.29.44:878][201]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.29.44:881][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-18.29.44:881][201]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:29:44 AM)
+[2023.04.05-18.29.44:881][201]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.29.44:890][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008425s)
+[2023.04.05-18.29.44:891][201]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.29.44:891][201]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.04.05-18.29.44:891][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009301s)
+[2023.04.05-18.29.44:916][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.05-18.29.44:918][201]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.29.44:918][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.29.44:918][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.29.44:918][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.29.44:918][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.29.44:918][201]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.29.44:921][201]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.29.44:921][201]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.29.44:925][201]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.29.44:925][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.29.44:925][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.29.44:925][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.29.44:925][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.29.44:925][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.29.44:925][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.29.44:926][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.29.44:926][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.29.44:926][201]LogInit: FAudioDevice initialized.
+[2023.04.05-18.29.44:926][201]LogAudio: Display: Audio Device (ID: 32) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.29.44:932][201]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.29.44:934][201]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.29.44
+[2023.04.05-18.29.44:934][201]LogWorld: Bringing up level for play took: 0.001275
+[2023.04.05-18.29.44:934][201]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2023.04.05-18.29.44:935][201]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.29.44:935][201]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.29.44:935][201]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_X tile(s)
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Q tile(s)
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_B tile(s)
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_M tile(s)
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_R tile(s)
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Z tile(s)
+[2023.04.05-18.29.44:974][201]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_H tile(s)
+[2023.04.05-18.29.44:975][201]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.29.44:975][201]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.29.44:975][201]PIE: Server logged in
+[2023.04.05-18.29.44:975][201]PIE: Play in editor total start time 0.095 seconds.
+[2023.04.05-18.30.02:633][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.30.02:633][387]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.30.02:634][387]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.30.02:635][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.30.02:649][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.30.02:656][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.30.02:677][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-18.30.02:677][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.30.02:678][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.30.02:679][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.30.02:683][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.05-18.30.02:710][388]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.04.05-18.31.07:742][ 37]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.31.07:782][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.05-18.31.09:493][226]LogEditorViewport: Clicking Background
+[2023.04.05-18.31.11:571][473]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.31.11:574][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-18.31.11:574][473]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:31:11 AM)
+[2023.04.05-18.31.11:574][473]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.31.11:582][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007581s)
+[2023.04.05-18.31.11:583][473]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.31.11:583][473]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.04.05-18.31.11:583][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008558s)
+[2023.04.05-18.31.11:608][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.04.05-18.31.11:610][473]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.31.11:610][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.31.11:610][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.31.11:610][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.31.11:610][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.31.11:610][473]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.31.11:613][473]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.31.11:613][473]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.31.11:616][473]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.31.11:616][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.31.11:616][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.31.11:616][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.31.11:617][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.31.11:617][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.31.11:617][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.31.11:618][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.31.11:618][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.31.11:618][473]LogInit: FAudioDevice initialized.
+[2023.04.05-18.31.11:618][473]LogAudio: Display: Audio Device (ID: 33) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.31.11:623][473]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.31.11:624][473]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.31.11
+[2023.04.05-18.31.11:625][473]LogWorld: Bringing up level for play took: 0.001285
+[2023.04.05-18.31.11:625][473]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2023.04.05-18.31.11:626][473]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.31.11:626][473]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.31.11:626][473]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_D tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_R tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_C tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_U tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_X tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_H tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_J tile(s)
+[2023.04.05-18.31.11:666][473]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.31.11:666][473]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.31.11:666][473]PIE: Server logged in
+[2023.04.05-18.31.11:667][473]PIE: Play in editor total start time 0.092 seconds.
+[2023.04.05-18.31.23:283][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.31.23:283][255]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.31.23:284][255]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.31.23:285][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.31.23:296][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.31.23:300][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.31.23:320][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-18.31.23:320][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.31.23:321][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.31.23:323][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.31.23:327][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.05-18.31.23:351][257]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.04.05-18.32.07:121][344]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.32.07:158][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.05-18.32.07:843][421]LogEditorViewport: Clicking Background
+[2023.04.05-18.32.08:530][503]LogEditorViewport: Clicking on Actor (LMB): BP_Tile__Throwing_C (BP_Tile__Throwing)
+[2023.04.05-18.32.27:465][727]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.32.27:506][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.04.05-18.32.33:249][396]LogEditorViewport: Clicking Background
+[2023.04.05-18.32.35:461][660]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.32.35:464][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-18.32.35:464][660]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:32:35 AM)
+[2023.04.05-18.32.35:464][660]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.32.35:473][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008124s)
+[2023.04.05-18.32.35:474][660]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.32.35:474][660]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2023.04.05-18.32.35:474][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009154s)
+[2023.04.05-18.32.35:499][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.04.05-18.32.35:501][660]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.32.35:501][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.32.35:501][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.32.35:501][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.32.35:501][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.32.35:501][660]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.32.35:504][660]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.32.35:504][660]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.32.35:507][660]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.32.35:508][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.32.35:508][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.32.35:508][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.32.35:508][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.32.35:508][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.32.35:508][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.32.35:509][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.32.35:509][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.32.35:509][660]LogInit: FAudioDevice initialized.
+[2023.04.05-18.32.35:509][660]LogAudio: Display: Audio Device (ID: 34) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.32.35:518][660]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.32.35:519][660]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.32.35
+[2023.04.05-18.32.35:520][660]LogWorld: Bringing up level for play took: 0.001312
+[2023.04.05-18.32.35:520][660]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2023.04.05-18.32.35:521][660]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.32.35:521][660]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.32.35:521][660]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_Y tile(s)
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_B tile(s)
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_P tile(s)
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_S tile(s)
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_U tile(s)
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_V tile(s)
+[2023.04.05-18.32.35:560][660]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_G tile(s)
+[2023.04.05-18.32.35:561][660]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.32.35:561][660]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.32.35:561][660]PIE: Server logged in
+[2023.04.05-18.32.35:561][660]PIE: Play in editor total start time 0.097 seconds.
+[2023.04.05-18.32.46:213][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.32.46:213][378]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.32.46:214][378]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.32.46:215][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.32.46:227][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.32.46:231][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.32.46:252][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-18.32.46:252][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.32.46:253][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.32.46:254][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.32.46:258][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.05-18.32.46:303][382]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.04.05-18.32.46:731][433]LogEditorViewport: Clicking on Actor (LMB): BP_Tile__Throwing_C (BP_Tile__Throwing)
+[2023.04.05-18.33.30:311][443]BlueprintLog: New page: Compile BP_Tile__Throwing
+[2023.04.05-18.33.30:352][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.04.05-18.33.31:068][517]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/BP_Tile__ThrowingF31068114A16CF56C023AD867C21B02D.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.uasset'
+[2023.04.05-18.33.31:077][517]AssetCheck: New page: Asset Save: BP_Tile__Throwing
+[2023.04.05-18.33.31:077][517]LogContentValidation: Display: Validating Blueprint /Game/Upwards-Actors/BP_Tiles/BP_Tile__Throwing.BP_Tile__Throwing
+[2023.04.05-18.33.36:349][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.04.05-18.33.36:370][127]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMapEAC2F9DC4359266EF8BAC28832CED62E.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/PuzzleCPP/Maps/PuzzleExampleMap.umap'
+[2023.04.05-18.33.36:384][127]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMap_BuiltDataBEBAD01D4688FA128C4541819CEC1748.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/PuzzleCPP/Maps/PuzzleExampleMap_BuiltData.uasset'
+[2023.04.05-18.33.36:393][127]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.05-18.33.36:394][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PuzzleCPP/Maps/PuzzleExampleMap_BuiltData.PuzzleExampleMap_BuiltData
+[2023.04.05-18.33.36:394][127]LogContentValidation: Display: Validating World /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap
+[2023.04.05-18.33.37:150][214]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.05-18.33.37:153][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-18.33.37:153][214]PIE: New page: PIE session: PuzzleExampleMap (Apr 5, 2023, 8:33:37 AM)
+[2023.04.05-18.33.37:153][214]LogPlayLevel: Creating play world package: /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.33.37:161][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007694s)
+[2023.04.05-18.33.37:162][214]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2023.04.05-18.33.37:162][214]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.04.05-18.33.37:162][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008509s)
+[2023.04.05-18.33.37:185][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.04.05-18.33.37:186][214]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.05-18.33.37:186][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.05-18.33.37:186][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-18.33.37:187][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-18.33.37:187][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-18.33.37:187][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-18.33.37:187][214]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.05-18.33.37:189][214]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.05-18.33.37:189][214]LogAudioMixer: Display: 1: FrontRight
+[2023.04.05-18.33.37:193][214]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.04.05-18.33.37:193][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-18.33.37:193][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-18.33.37:193][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-18.33.37:194][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.05-18.33.37:194][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.05-18.33.37:194][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.05-18.33.37:195][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.05-18.33.37:195][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.05-18.33.37:195][214]LogInit: FAudioDevice initialized.
+[2023.04.05-18.33.37:195][214]LogAudio: Display: Audio Device (ID: 35) registered with world 'PuzzleExampleMap'.
+[2023.04.05-18.33.37:200][214]LogLoad: Game class is 'Mouse_GameMode_C'
+[2023.04.05-18.33.37:202][214]LogWorld: Bringing World /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2023.04.05-13.33.37
+[2023.04.05-18.33.37:202][214]LogWorld: Bringing up level for play took: 0.001264
+[2023.04.05-18.33.37:202][214]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2023.04.05-18.33.37:203][214]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.33.37:203][214]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.05-18.33.37:203][214]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] called trigger
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_U tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_N tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile__WILD tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_R tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_O tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_S tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [BP_Player_2] Given: 1 BP_Tile_T tile(s)
+[2023.04.05-18.33.37:242][214]LogBlueprintUserMessages: [Mouse_GameMode_C_0] 1
+[2023.04.05-18.33.37:242][214]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.05-18.33.37:242][214]PIE: Server logged in
+[2023.04.05-18.33.37:243][214]PIE: Play in editor total start time 0.09 seconds.
+[2023.04.05-18.34.10:563][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.34.10:563][465]LogWorld: BeginTearingDown for /Game/PuzzleCPP/Maps/UEDPIE_0_PuzzleExampleMap
+[2023.04.05-18.34.10:564][465]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-18.34.10:565][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.34.10:580][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-18.34.10:587][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-18.34.10:607][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-18.34.10:607][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.34.10:608][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.05-18.34.10:614][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.05-18.34.10:642][466]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.04.05-18.34.11:678][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.05-18.34.11:697][585]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMapD99DDC9743A86824796718A5116E165C.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/PuzzleCPP/Maps/PuzzleExampleMap.umap'
+[2023.04.05-18.34.11:710][585]LogSavePackage: Moving 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Saved/PuzzleExampleMap_BuiltData39B8725B4DC0520F4C6B7E8FFB46E4D7.tmp' to 'D:/eOldHarddrive/class stuff/2023 spring/4060/Capstone1_Project/UpwardsGame/Content/PuzzleCPP/Maps/PuzzleExampleMap_BuiltData.uasset'
+[2023.04.05-18.34.11:719][585]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.05-18.34.11:719][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PuzzleCPP/Maps/PuzzleExampleMap_BuiltData.PuzzleExampleMap_BuiltData
+[2023.04.05-18.34.11:719][585]LogContentValidation: Display: Validating World /Game/PuzzleCPP/Maps/PuzzleExampleMap.PuzzleExampleMap
