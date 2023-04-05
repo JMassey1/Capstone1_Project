@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UpwardsGame-6594.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UpwardsGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\GridSpace.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\ScrabbleGameMode.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Tile.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGame.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameBlock.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameBlockGrid.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameBoard.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameGameMode.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGamePawn.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGamePlayerController.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\GridSpace.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\ScrabbleGameMode.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Tile.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGame.init.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameBlock.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameBlockGrid.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameBoard.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGameGameMode.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGamePawn.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UpwardsGamePlayerController.gen.cpp.obj"
+"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Default.rc2.res"
+/OUT:"D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UE4Editor-UpwardsGame-6594.lib"
