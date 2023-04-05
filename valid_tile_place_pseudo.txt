@@ -1,0 +1,33 @@
+PROCEDURE: Valid_Tile_Placement(tile_ob):
+	cur_x = tile_ob[x]
+	cur_y = tile_ob[y]
+	word = tile_ob.letter
+
+	for every placed_tile in placed_tiles_list:
+		
+		# tile to the right
+		if (placed_tile[x + 1] == cur_x and placed_tile[y] == cur_y):
+			while (tile_exists(cur_x + 1, cur_y):
+				word = word + get_tile(cur_x + 1, cur_y).letter
+				cur_x = cur_x + 1
+		
+		# tile to the left
+		elif (placed_tile[x - 1] == cur_x and placed_tile[y] == cur_y):
+			while (tile_exists(cur_x - 1, cur_y):
+				word = get_tile(cur_x - 1, cur_y).letter + word
+				cur_x = cur_x - 1
+		
+		# tile above
+		elif (placed_tile[x] == cur_x and placed_tile[y + 1] == cur_y):
+			while (tile_exists(cur_x, cur_y + 1):
+				word = get_tile(cur_x, cur_y + 1).letter + word
+		
+		# tile below
+		elif (placed_tile[x] == cur_x and placed_tile[y - 1] == cur_y):
+			while (tile_exists(cur_x, cur_y - 1):
+				word = word + get_tile(cur_x, cur_y - 1).letter
+		
+		
+	return False
+
+	
