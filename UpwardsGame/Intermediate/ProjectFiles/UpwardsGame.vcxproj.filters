@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\UpwardsGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F0CFF684-8696-4560-BE8D-5B49CAFB31AC}</UniqueIdentifier>
+      <UniqueIdentifier>{515D7C51-56E9-48E9-8AB9-C713B3361B39}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UpwardsGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{37DE1E78-6D4E-4C1E-85C9-27D0C1110139}</UniqueIdentifier>
+      <UniqueIdentifier>{BADF9871-EB7A-4096-94C9-BCF1957668CD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UpwardsGame">
-      <UniqueIdentifier>{10CE85C9-282C-41F1-BD2F-5C9B7CD4C71E}</UniqueIdentifier>
+      <UniqueIdentifier>{F7DEF1FA-EBCA-4933-BE0B-B382C33D7742}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UpwardsGame\GridSpace.cpp">
       <Filter>Source\UpwardsGame</Filter>

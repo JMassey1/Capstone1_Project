@@ -1,0 +1,39 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\savag\Documents\School\capstone1\Capstone1_Project).
+  Creating makefile for UpwardsGameEditor (no existing makefile)
+  Parsing headers for UpwardsGameEditor
+    Running UnrealHeaderTool "C:\Users\savag\Documents\School\capstone1\Capstone1_Project\UpwardsGame\UpwardsGame.uproject" "C:\Users\savag\Documents\School\capstone1\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UpwardsGameEditor\Development\UpwardsGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\savag\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UpwardsGameEditor in 17.8500614 seconds
+  Building UpwardsGameEditor...
+  Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 25 actions with 12 processes...
+    [1/25] Default.rc2
+    [2/25] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [3/25] UpwardsGame.cpp
+    [4/25] UpwardsGamePlayerController.cpp
+    [5/25] ScrabbleGameMode.cpp
+    [6/25] UpwardsGameBlock.gen.cpp
+    [7/25] UpwardsGamePawn.gen.cpp
+    [8/25] UpwardsGameBoard.gen.cpp
+    [9/25] UpwardsGamePawn.cpp
+    [10/25] UpwardsGameBoard.cpp
+    [11/25] UpwardsGameBlockGrid.cpp
+    [12/25] UpwardsGamePlayerController.gen.cpp
+    [13/25] Tile.cpp
+    [14/25] Tile.gen.cpp
+    [15/25] UpwardsGameBlockGrid.gen.cpp
+    [16/25] UpwardsGameGameMode.gen.cpp
+    [17/25] GridSpace.cpp
+    [18/25] UpwardsGame.init.gen.cpp
+    [19/25] UpwardsGameGameMode.cpp
+    [20/25] GridSpace.gen.cpp
+    [21/25] UpwardsGameBlock.cpp
+    [22/25] ScrabbleGameMode.gen.cpp
+    [23/25] UE4Editor-UpwardsGame.lib
+       Creating library C:\Users\savag\Documents\School\capstone1\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UE4Editor-UpwardsGame.lib and object C:\Users\savag\Documents\School\capstone1\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UE4Editor-UpwardsGame.exp
+    [24/25] UE4Editor-UpwardsGame.dll
+       Creating library C:\Users\savag\Documents\School\capstone1\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UE4Editor-UpwardsGame.suppressed.lib and object C:\Users\savag\Documents\School\capstone1\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\UE4Editor-UpwardsGame.suppressed.exp
+    [25/25] UpwardsGameEditor.target
+  Total time in Parallel executor: 21.93 seconds
+  Total execution time: 69.10 seconds
