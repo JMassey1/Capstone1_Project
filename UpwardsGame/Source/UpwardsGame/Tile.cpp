@@ -38,7 +38,7 @@ void ATile::PlaceOnGridSpace(AGridSpace* GridSpace)
 {
 	CurrentGridSpace = GridSpace;
 
-	FVector TargetLocation = GridSpace->GetActorLocation();
+	FVector TargetLocation;
 	TargetLocation.Z += TileSize / 2.f;
 
 	FVector LaunchLocation = GetActorLocation();

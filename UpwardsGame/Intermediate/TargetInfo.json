@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UpwardsGame",
-			"Path": "C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGame.Target.cs",
+			"Path": "C:\\Users\\savag\\Documents\\School\\capstone1\\jordangame\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UpwardsGameEditor",
-			"Path": "C:\\Users\\Jordan\\Documents\\Projects\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGameEditor.Target.cs",
+			"Path": "C:\\Users\\savag\\Documents\\School\\capstone1\\jordangame\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
