@@ -58,7 +58,11 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUpwardsGameBoard)
 
 
-#define UpwardsGame_Source_UpwardsGame_UpwardsGameBoard_h_12_PRIVATE_PROPERTY_OFFSET
+#define UpwardsGame_Source_UpwardsGame_UpwardsGameBoard_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__GridSpaceClass() { return STRUCT_OFFSET(AUpwardsGameBoard, GridSpaceClass); } \
+	FORCEINLINE static uint32 __PPO__GridSpaces() { return STRUCT_OFFSET(AUpwardsGameBoard, GridSpaces); }
+
+
 #define UpwardsGame_Source_UpwardsGame_UpwardsGameBoard_h_9_PROLOG
 #define UpwardsGame_Source_UpwardsGame_UpwardsGameBoard_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
