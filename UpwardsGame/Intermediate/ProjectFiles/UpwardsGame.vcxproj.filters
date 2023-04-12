@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UpwardsGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{103672DB-5A1B-48CE-8D0D-3501E46A5534}</UniqueIdentifier>
+      <UniqueIdentifier>{246AD2AE-583A-4001-8335-191A3E13C9A2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UpwardsGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{70854ACE-F770-480B-B596-CC6EC72132FC}</UniqueIdentifier>
+      <UniqueIdentifier>{B4BFEDF8-C63A-4CF0-BC56-21F0EE36347B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UpwardsGame">
-      <UniqueIdentifier>{0AD876F2-64F8-4EF3-BC33-EC9DFAC27B4B}</UniqueIdentifier>
+      <UniqueIdentifier>{C3A3B9D1-1361-4FF8-9F22-54F0EBE6C537}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UpwardsGame\GridSpace.cpp">
       <Filter>Source\UpwardsGame</Filter>

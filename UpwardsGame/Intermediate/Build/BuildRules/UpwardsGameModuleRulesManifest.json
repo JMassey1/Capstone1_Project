@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGame\\UpwardsGame.Build.cs",
-		"D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGame.Target.cs",
-		"D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGameEditor.Target.cs"
+		"C:\\Users\\david\\OneDrive\\Documents\\Unreal Projects\\Capstone1_Project-throwableRockMaybe\\UpwardsGame\\Source\\UpwardsGame\\UpwardsGame.Build.cs",
+		"C:\\Users\\david\\OneDrive\\Documents\\Unreal Projects\\Capstone1_Project-throwableRockMaybe\\UpwardsGame\\Source\\UpwardsGame.Target.cs",
+		"C:\\Users\\david\\OneDrive\\Documents\\Unreal Projects\\Capstone1_Project-throwableRockMaybe\\UpwardsGame\\Source\\UpwardsGameEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

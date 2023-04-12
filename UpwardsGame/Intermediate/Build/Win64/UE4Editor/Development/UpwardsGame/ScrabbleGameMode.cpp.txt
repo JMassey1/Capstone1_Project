@@ -1,9 +1,9 @@
-D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Definitions.UpwardsGame.h
-D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Source\UpwardsGame\ScrabbleGameMode.h
+C:\Users\david\OneDrive\Documents\Unreal Projects\Capstone1_Project-throwableRockMaybe\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Development\UpwardsGame\Definitions.UpwardsGame.h
+C:\Users\david\OneDrive\Documents\Unreal Projects\Capstone1_Project-throwableRockMaybe\UpwardsGame\Source\UpwardsGame\ScrabbleGameMode.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
-D:\eOldHarddrive\class stuff\2023 spring\4060\Capstone1_Project\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Inc\UpwardsGame\ScrabbleGameMode.generated.h
+C:\Users\david\OneDrive\Documents\Unreal Projects\Capstone1_Project-throwableRockMaybe\UpwardsGame\Intermediate\Build\Win64\UE4Editor\Inc\UpwardsGame\ScrabbleGameMode.generated.h

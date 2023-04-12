@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UpwardsGame",
-			"Path": "D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGame.Target.cs",
+			"Path": "C:\\Users\\david\\OneDrive\\Documents\\Unreal Projects\\Capstone1_Project-throwableRockMaybe\\UpwardsGame\\Source\\UpwardsGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UpwardsGameEditor",
-			"Path": "D:\\eOldHarddrive\\class stuff\\2023 spring\\4060\\Capstone1_Project\\UpwardsGame\\Source\\UpwardsGameEditor.Target.cs",
+			"Path": "C:\\Users\\david\\OneDrive\\Documents\\Unreal Projects\\Capstone1_Project-throwableRockMaybe\\UpwardsGame\\Source\\UpwardsGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
